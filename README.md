@@ -5,11 +5,12 @@ An HR dashboard in Power BI is an interactive visual tool that consolidates and 
 These dashboards are interactive, allowing users to filter by department, job role, or demographics to uncover patterns and optimize HR strategies.
 
 #Requirements
-To build an effective HR dashboard in Power BI, you’ll typically need:
-- Clean and structured HR data from sources like Excel, SQL databases, or HRMS platforms.
+
+- Clean and structured HR data from sources like Excel .
 - Power BI Desktop or Power BI Service for development and sharing.
 - Data modeling skills to relate tables and create calculated fields.
 - Defined KPIs, such as turnover rate, time-to-hire, training completion, etc.
+- create Customize Button 
 - User access controls to manage who can view or interact with the dashboard.
 
 #Benefits
