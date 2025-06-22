@@ -24,5 +24,5 @@ To build an effective HR dashboard in Power BI, you’ll typically need:
 
 Data = 
 Dashboard = 
-Screenshot =
+Screenshot = https://github.com/kg-karan48/HR_Analytic-Project/blob/main/Screenshot%202025-06-21%20172929.png 
 
