@@ -19,3 +19,10 @@ To build an effective HR dashboard in Power BI, you’ll typically need:
 - Time savings by automating reports and reducing manual data crunching.
 - Customizability to fit different organizational needs and HR strategies.
 
+
+#Repository Structure
+
+Data = 
+Dashboard = 
+Screenshot =
+
