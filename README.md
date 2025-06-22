@@ -22,8 +22,8 @@ To build an effective HR dashboard in Power BI, you’ll typically need:
 
 #Repository Structure
 
-Data = https://github.com/kg-karan48/HR_Analytic-Project/blob/main/HR_Analytics.csv </br>
-Dashboard = 
+  Data     = https://github.com/kg-karan48/HR_Analytic-Project/blob/main/HR_Analytics.csv </br>
+ Dashboard = https://github.com/kg-karan48/HR_Analytic-Project/blob/main/HR_Analytic%20Project.pbix </br>
 Screenshot = https://github.com/kg-karan48/HR_Analytic-Project/blob/main/Screenshot%202025-06-21%20172929.png </br>
              https://github.com/kg-karan48/HR_Analytic-Project/blob/main/Screenshot%202025-06-21%20172948.png
 
